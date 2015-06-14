@@ -3,7 +3,7 @@
 ## Installation
 Assuming you have: PHP 5.4+ and composer installed
 
-$ https://github.com/aswyx/parse_groceries_php.git
+$ git clone https://github.com/aswyx/parse_groceries_php.git
 
 $ cd parse_groceries_php
 
