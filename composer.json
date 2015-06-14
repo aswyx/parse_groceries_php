@@ -1,0 +1,24 @@
+{
+  "name": "laszlo/sainsbury-scraper",
+  "description": "scrapes Sainsbury's website for groceries",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Laszlo Hornyik",
+      "email": "laszlo.hornyik@live.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "paquettg/php-html-parser": "1.6.*",
+    "symfony/console": "~2.6"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.6.*"
+  },
+  "autoload":{
+    "psr-4":{
+      "": "src/"
+    }
+  }
+}
